@@ -1,0 +1,44 @@
+@media only screen and (max-width: 1000px){
+    .header1{
+        height: 80px;
+    }
+    
+    #logo{
+        width:100%;
+        height:auto;
+        max-width: 150px;
+        max-height: 80px;
+        display: inline-block;
+    }
+
+    .logoa{
+       float: left;
+       padding-left: 30%;
+       padding-right: 30%;
+       padding-top: 1%;
+       
+    }
+
+    #busca{
+       display: none; 
+    }
+    
+    #bag{
+        display: none;
+    }
+
+    .opcoes{
+        display: none;
+    }
+
+    #head_button{
+        display: none;
+    }
+    
+    #navbarC{
+        padding-left:5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+               
+    }
+}
